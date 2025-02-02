@@ -1,4 +1,4 @@
-# This project was created without having DDL in mind!
+## This project was created without having DDL in mind!
 
 - A DDL and DML dedicated project can be found on my repositories page titled [shop](https://github.com/nilejoy/shop);
 - This is extended SQL code using the procedural extension of MySQL on an [already existing database](https://github.com/lerocha/chinook-database/releases/tag/v1.4.0);
